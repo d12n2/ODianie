@@ -1,0 +1,93 @@
+body {
+	/* background-image: url("tlo.jpg");*/
+	/* backroung-size: 100%;*/
+	font-family: serif;
+	color: white;
+}
+
+p {
+	color: black;
+	font-size: 1.5em;
+}
+	
+td {
+	background-color: #35944B;
+	color: white;
+	/*border: 7px solid blue;*/
+	font-size: 1.3em;
+}
+
+th {
+	background-color: #2D5D38;
+	border: 7px;
+	font-size: 1.5em;
+}
+
+
+
+.h2p {
+	font-family: sans-serif;
+	color="#482FA0"; 
+	font-size: 2.2em;
+	background-color: #20784F;
+	text-align: center;
+}
+
+.h2o {
+	font-family: sans-serif;
+	color: white; 
+	font-size: 2.2em;
+	background-color: #562852;
+	text-align: center;
+}
+
+h1 {
+	color: #362F2F;
+}
+
+.przywitanie {
+	background-color: #AAFF99;
+	font-size: 1.3em;
+}
+
+.powitanie {
+	background-color: #F7CFF4;
+	font-size: 1.3em;
+}
+
+.tdsztuka {
+	background-color: #F7CFF4;
+}
+
+.textsztuka {
+	color: #562852;
+	font-size: 1.7em;
+}
+
+.sztwstep {
+	font-size: 1.7em;
+}
+
+.ksmuzfil {
+	text-align: center;
+}
+
+.ind {
+	text-align: center;
+	font-size: 3em;
+}
+
+.indprzyw {
+	background-color: #D8E9F9;
+	font-size: 1.3em;
+}
+
+.tdind {
+	background-color: #D8E9F9;
+	color: white;
+	font-size: 1.5em;
+}
+
+.h2ind {
+	color: black;
+}
